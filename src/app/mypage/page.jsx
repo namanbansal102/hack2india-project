@@ -3,7 +3,8 @@ import { AnimatedModalDemo } from './AnimatedModalDemo'
 
 const page = () => {
   return (
-    <div><AnimatedModalDemo></AnimatedModalDemo></div>
+    <div>
+        <AnimatedModalDemo></AnimatedModalDemo></div>
   )
 }
 
