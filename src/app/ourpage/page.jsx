@@ -1,5 +1,5 @@
 import React from 'react'
-import { ThreeDCardDemo } from './ThreedCardDemo'
+import { ThreeDCardDemo } from './ThreedCardDemo.js'
 import {Avatar} from "@nextui-org/react";
 const page = () => {
   return (
